@@ -1,5 +1,6 @@
 # LoginSystem
-This Application is a system that processes login creditials and verifies it by comparing it to login key pairs stored. Once your logins are verified the application launches the welcome page. 
+This Application is a system that processes login credentials and verifies it by comparing it to login key pairs stored.
+Once your logins are verified the application launches the welcome page. 
 
 IDandPasswords class - this contains a hash map of all the user ID and Password combinations.
 LoginPage class - this is where individuals sign in.
