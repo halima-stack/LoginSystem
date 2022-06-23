@@ -31,7 +31,9 @@ Once a login credentials are verified then the application will take you to the 
 The Welcome Page is a simple page that says “Hello” (+ username). 
 For example, If your username is Bro then Welcome Page will say, “Hello Bro”. 
 
-Demo: https://user-images.githubusercontent.com/82426331/175410669-b84f6b4f-eea0-4651-a7d2-5201ba1f1e26.mp4
+Demo: 
+
+https://user-images.githubusercontent.com/82426331/175410669-b84f6b4f-eea0-4651-a7d2-5201ba1f1e26.mp4
 
 
 
